@@ -1,30 +1,32 @@
-# Yo 👋
-
 <div align="center">
-  <img src="./images/hai.svg" width="250" />
-  <img src="./images/kei.svg" width="250" />
+  <img src="./images/hai.svg" width="150" />
+  <img src="./images/kei.svg" width="150" />
 </div>
 
 <br/>
 
-- Name: **h7x4**
+## Hi there 👋
 
-- Live in **Norway**
+My name is h7x4. I'm currently studying informatics.
 
-- Studying ***Informatics***
+Among other things, I'm usually working with:
 
-- Good with **Flutter**, **Dart** and **Linux**
+- All things Linux
+- [NixOS][nixos] and [Nixpkgs][nixpkgs] (<img src="./images/gitea_logo.svg" alt="Gitea" height="16"> [/nix-dotfiles][nix-dotfiles])
+- [Flutter][flutter] and mobile development ([/Jisho-Study-Tool][jisho-study-tool])
+- Japanese, but also linguistics in general
+- Compilers, parsers and DSLs
+- Functional languages and programming language quirks
+- <img src="./images/gitea_logo.svg" alt="Gitea" height="16"> [Misc. school projects][school]
 
-- Learning **Nix**, **C** and **more Linux**
+Some of my projects are hosted over at <img src="./images/gitea_logo.svg" alt="Gitea" height="16"> https://git.nani.wtf
 
-- Understand **Norwegian**, **English** and **日本語**
+Come over to <img src="./images/matrix_logo.svg" alt="Matrix" height="16"> and say hi! → [@h7x4:nani.wtf][matrix-h7x4]
 
-- Loves **Declarative Languages**, **NixOS**, **Compilers** and **Language Learning Software**
-
-<br/>
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/h7x4abk3g?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&languages=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=Jisho-Study-Tool%2C%20unofficial_jisho_api_dart%2C%20nix-dotfiles%2C%20kanimaji-dart&config.timezone=Europe%2FOslo)
-
-</div>
+[nixos]: https://nixos.org/
+[nixpkgs]: https://github.com/NixOS/nixpkgs
+[nix-dotfiles]: https://git.nani.wtf/h7x4/nix-dotfiles
+[flutter]: https://flutter.dev/
+[jisho-study-tool]: https://github.com/h7x4/Jisho-Study-Tool
+[school]: https://git.nani.wtf/Schoolwork
+[matrix-h7x4]: https://matrix.to/#/@h7x4:nani.wtf
