@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="./images/hai.svg" width="150" />
-  <img src="./images/kei.svg" width="150" />
-</div>
-
-<br/>
-
 ## Hi there 👋
 
 My name is h7x4. I'm currently studying informatics.
@@ -14,9 +7,8 @@ Among other things, I'm usually working with:
 - All things Linux
 - [NixOS][nixos] and [Nixpkgs][nixpkgs] (<img src="./images/gitea_logo.svg" alt="Gitea" height="16"> [/nix-dotfiles][nix-dotfiles])
 - [Flutter][flutter] and mobile development ([/Jisho-Study-Tool][jisho-study-tool])
-- Japanese, but also linguistics in general
 - Compilers, parsers and DSLs
-- Functional languages and programming language quirks
+- Functional languages and alternative programming paradigms 
 - <img src="./images/gitea_logo.svg" alt="Gitea" height="16"> [Misc. school projects][school]
 
 Some of my projects are hosted over at <img src="./images/gitea_logo.svg" alt="Gitea" height="16"> https://git.nani.wtf
