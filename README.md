@@ -14,6 +14,8 @@ Most of my projects are hosted over at <img src="./images/gitea_logo.svg" alt="G
 
 Come over to <img src="./images/matrix_logo.svg" alt="Matrix" height="16"> and say hi! → [@h7x4:nani.wtf][matrix-h7x4]. I dont bite, I promise :)
 
+I tend to be very trigger happy with starring repos. Don't hesitate to unfollow if I fill up your entire feed.
+
 [nixos]: https://nixos.org/
 [nixpkgs]: https://github.com/NixOS/nixpkgs
 [nix-dotfiles]: https://git.pvv.ntnu.no/oysteikt/nix-dotfiles
